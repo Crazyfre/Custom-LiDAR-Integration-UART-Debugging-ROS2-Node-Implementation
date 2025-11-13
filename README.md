@@ -266,7 +266,8 @@ After applying the UART configuration fix and running the custom ROS2 node:
 ## 👤 Author
 
 **Akash A**
-**N Mujeeb Rahman**
+**Mujeeb Rahman **
+
 
 ---
 
